@@ -7,7 +7,7 @@ body{
     font-family: sans-serif, serif;
     font-weight: bold;
     font-size: 120%;
-    background: url(michail-dementiev-Vo6T7KwvQoQ-unsplash.jpg);
+    background: url(nightSky.jpg);
     background-size: contain;
    
     color:rgb(64, 64, 64);
@@ -58,4 +58,13 @@ input{
 }
 h1{
     margin: 0;
+    margin-bottom: .5em;
+}
+.discription{
+    text-transform: capitalize;
+    margin-left: 8px;
+}
+.flex{
+    display: flex;
+    align-items: center;
 }
